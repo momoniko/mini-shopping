@@ -1,0 +1,22 @@
+/* components/SearchInput/UpImg/UpImg.wxss */
+
+page {
+    margin: 0;
+    padding: 0;
+}
+
+.up_img_warp {
+    width: 100rpx;
+    height: 100rpx;
+    position: relative;
+}
+
+.up_img_warp image {
+    position: absolute;
+}
+
+.up_img_warp icon {
+    position: absolute;
+    top: -20rpx;
+    right: -20rpx;
+}
